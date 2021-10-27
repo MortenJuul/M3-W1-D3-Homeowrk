@@ -1,0 +1,24 @@
+{
+  "name": "m3-w1-d3-homeowrk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MortenJuul/M3-W1-D3-Homeowrk.git"
+  },
+  "keywords": [],
+  "author": "Morten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MortenJuul/M3-W1-D3-Homeowrk/issues"
+  },
+  "homepage": "https://github.com/MortenJuul/M3-W1-D3-Homeowrk#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.2"
+  }
+}
